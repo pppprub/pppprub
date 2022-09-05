@@ -1,4 +1,4 @@
-### Hi there 👀
+<!--### Hi there 👀
 
 </pre> 
 
@@ -10,9 +10,8 @@
 
 
 
-![](https://github.com/pppprub/pppprub/blob/main/shin_front.gif)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pppprub&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![](https://github.com/pppprub/pppprub/blob/main/shin_back.gif)
+<img src="https://github.com/pppprub/pppprub/blob/main/shin_front.gif" width="20%" height="20%"/>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pppprub&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<img src="https://github.com/pppprub/pppprub/blob/main/shin_back.gif" width="20%" height="20%"/>
+
 
 
 <!--
