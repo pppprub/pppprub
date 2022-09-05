@@ -10,7 +10,7 @@
 
 
 
-<img src="https://github.com/pppprub/pppprub/blob/main/shin_front.gif" width="20%" height="20%"/>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pppprub&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<img src="https://github.com/pppprub/pppprub/blob/main/shin_back.gif" width="20%" height="20%"/>
+<img src="https://github.com/pppprub/pppprub/blob/main/shin_front.gif" width="20%" height="20%"/>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pppprub&layout=compact)](https://github.com/pppprub/pppprub)<img src="https://github.com/pppprub/pppprub/blob/main/shin_back.gif" width="20%" height="20%"/>
 
 
 
