@@ -1,15 +1,21 @@
-### Hi there 👋
+### Hi there 👀
 
-<!--
-**pppprub/pppprub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 </pre> 
 
-<img width="100%" alt="game gif" src="https://qnycdn.volcanoblog.cn/github-contribution-grid-snake.svg"/>
+<!-- <img width="100%" alt="game gif" src="https://qnycdn.volcanoblog.cn/github-contribution-grid-snake.svg"/> 
 
 ### ⭐️ &nbsp;Github Star
 
-<img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pppprub&count_private=true&show_icons=true"/>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=pppprub&count_private=true&show_icons=true) -->
 
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pppprub&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+<!--
+**pppprub/pppprub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -20,4 +26,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+<a href="https://github.com/pppprub/pppprub">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pppprub&layout=compact,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" />
+</a>
+<a href="https://github.com/pppprub/pppprub">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pppprub&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="pppprub's GitHub Stats" />
+</a>
 -->
