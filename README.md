@@ -9,7 +9,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=pppprub&count_private=true&show_icons=true) -->
 
 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/pppprub/pppprub/blob/main/shin_front.gif" width="20%" height="20%"/>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pppprub&layout=compact)](https://github.com/pppprub/pppprub)<img src="https://github.com/pppprub/pppprub/blob/main/shin_back.gif" width="20%" height="20%"/>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/pppprub/pppprub/blob/main/shin_front.gif" width="20%" height="20%"/>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pppprub&layout=compact)](https://github.com/pppprub/pppprub)<img src="https://github.com/pppprub/pppprub/blob/main/shin_back.gif" width="20%" height="20%"/>
 
 
 <!--
