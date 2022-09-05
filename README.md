@@ -10,8 +10,9 @@
 
 
 
+![](https://github.com/pppprub/pppprub/blob/main/shin_front.gif)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pppprub&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+![](https://github.com/pppprub/pppprub/blob/main/shin_back.gif)
 
 
 <!--
